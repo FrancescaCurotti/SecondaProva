@@ -12,6 +12,7 @@ namespace provaAdmin
         {
             Console.WriteLine("Ciao");
             Console.WriteLine("mamma, guarda come mi diverto");
+            Console.WriteLine("Io no");
             Console.ReadKey();
         }
     }
