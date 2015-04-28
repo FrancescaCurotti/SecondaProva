@@ -11,6 +11,7 @@ namespace provaAdmin
         static void Main(string[] args)
         {
             Console.WriteLine("Ciao");
+            Console.WriteLine("mamma");
             Console.ReadKey();
         }
     }
